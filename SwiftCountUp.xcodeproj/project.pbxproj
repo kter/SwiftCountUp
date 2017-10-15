@@ -22,6 +22,8 @@
 		F0BAEFCB1F90D2290073BDE9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F0BAEFCE1F90D2290073BDE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F0BAEFD01F90D2290073BDE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F0BAEFD61F90D2400073BDE9 /* plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plus.png; sourceTree = "<group>"; };
+		F0BAEFD71F90D2400073BDE9 /* minus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = minus.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,8 @@
 		F0BAEFC31F90D2290073BDE9 /* SwiftCountUp */ = {
 			isa = PBXGroup;
 			children = (
+				F0BAEFD71F90D2400073BDE9 /* minus.png */,
+				F0BAEFD61F90D2400073BDE9 /* plus.png */,
 				F0BAEFC41F90D2290073BDE9 /* AppDelegate.swift */,
 				F0BAEFC61F90D2290073BDE9 /* ViewController.swift */,
 				F0BAEFC81F90D2290073BDE9 /* Main.storyboard */,
